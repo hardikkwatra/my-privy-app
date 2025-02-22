@@ -1,0 +1,441 @@
+
+> my-privy-app@0.1.0 start
+> react-scripts start
+
+(node:70500) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:70500) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+Starting the development server...
+
+Compiled with warnings.
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\environment\src\crypto.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\environment\src\crypto.ts'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\environment\src\env.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\environment\src\env.ts'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\environment\src\index.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\environment\src\index.ts'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\events\src\events.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\events\src\events.ts'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\events\src\index.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\events\src\index.ts'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\jsonrpc-utils\src\constants.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\jsonrpc-utils\src\constants.ts'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\jsonrpc-utils\src\env.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\jsonrpc-utils\src\env.ts'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\jsonrpc-utils\src\error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\jsonrpc-utils\src\error.ts'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\jsonrpc-utils\src\format.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\jsonrpc-utils\src\format.ts'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\jsonrpc-utils\src\index.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\jsonrpc-utils\src\index.ts'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\jsonrpc-utils\src\routing.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\jsonrpc-utils\src\routing.ts'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\jsonrpc-utils\src\types.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\jsonrpc-utils\src\types.ts'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\jsonrpc-utils\src\url.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\jsonrpc-utils\src\url.ts'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\jsonrpc-utils\src\validators.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\jsonrpc-utils\src\validators.ts'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\safe-json\src\index.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\safe-json\src\index.ts'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\time\src\constants\index.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\time\src\constants\index.ts'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\time\src\constants\misc.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\time\src\constants\misc.ts'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\time\src\constants\time.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\time\src\constants\time.ts'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\time\src\index.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\time\src\index.ts'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\time\src\types\index.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\time\src\types\index.ts'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\time\src\types\watch.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\time\src\types\watch.ts'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\time\src\utils\convert.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\time\src\utils\convert.ts'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\time\src\utils\delay.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\time\src\utils\delay.ts'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\time\src\utils\index.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\time\src\utils\index.ts'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\time\src\watch.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\time\src\watch.ts'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\window-getters\src\index.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\window-getters\src\index.ts'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\window-metadata\src\index.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\window-metadata\src\index.ts'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\CoinbaseWalletProvider.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\CoinbaseWalletProvider.ts'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\CoinbaseWalletSDK.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\CoinbaseWalletSDK.ts'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\assets\wallet-logo.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\assets\wallet-logo.ts'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\core\communicator\Communicator.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\core\communicator\Communicator.ts'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\core\constants.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\core\constants.ts'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\core\error\constants.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\core\error\constants.ts'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\core\error\errors.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\core\error\errors.ts'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\core\error\serialize.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\core\error\serialize.ts'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\core\error\utils.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\core\error\utils.ts'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\core\provider\interface.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\core\provider\interface.ts'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\core\storage\ScopedLocalStorage.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\core\storage\ScopedLocalStorage.ts'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\core\type\index.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\core\type\index.ts'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\core\type\util.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\core\type\util.ts'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\createCoinbaseWalletProvider.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\createCoinbaseWalletProvider.ts'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\createCoinbaseWalletSDK.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\createCoinbaseWalletSDK.ts'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\index.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\index.ts'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sdk-info.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sdk-info.ts'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\scw\SCWKeyManager.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\scw\SCWKeyManager.ts'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\scw\SCWSigner.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\scw\SCWSigner.ts'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\util.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\util.ts'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\WalletLinkSigner.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\WalletLinkSigner.ts'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\RelayEventManager.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\RelayEventManager.ts'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\WalletLinkRelay.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\WalletLinkRelay.ts'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\connection\WalletLinkCipher.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\connection\WalletLinkCipher.ts'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\connection\WalletLinkConnection.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\connection\WalletLinkConnection.ts'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\connection\WalletLinkHTTP.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\connection\WalletLinkHTTP.ts'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\connection\WalletLinkWebSocket.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\connection\WalletLinkWebSocket.ts'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\constants.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\constants.ts'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\type\WalletLinkSession.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\type\WalletLinkSession.ts'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\type\Web3Response.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\type\Web3Response.ts'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\ui\WLMobileRelayUI.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\ui\WLMobileRelayUI.ts'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\ui\WalletLinkRelayUI.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\ui\WalletLinkRelayUI.ts'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\ui\components\RedirectDialog\RedirectDialog-css.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\ui\components\RedirectDialog\RedirectDialog-css.ts'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\ui\components\RedirectDialog\RedirectDialog.tsx' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\ui\components\RedirectDialog\RedirectDialog.tsx'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\ui\components\Snackbar\Snackbar-css.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\ui\components\Snackbar\Snackbar-css.ts'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\ui\components\Snackbar\Snackbar.tsx' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\ui\components\Snackbar\Snackbar.tsx'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\ui\components\cssReset\cssReset-css.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\ui\components\cssReset\cssReset-css.ts'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\ui\components\cssReset\cssReset.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\ui\components\cssReset\cssReset.ts'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\ui\components\util.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\ui\components\util.ts'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\util\checkCrossOriginOpenerPolicy.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\util\checkCrossOriginOpenerPolicy.ts'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\util\cipher.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\util\cipher.ts'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\util\provider.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\util\provider.ts'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\util\validatePreferences.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\util\validatePreferences.ts'
+
+Failed to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\util\web.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\util\web.ts'
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@walletconnect/environment/dist/cjs/crypto.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\environment\src\crypto.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\environment\src\crypto.ts'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@walletconnect/environment/dist/cjs/env.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\environment\src\env.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\environment\src\env.ts'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@walletconnect/environment/dist/cjs/index.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\environment\src\index.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\environment\src\index.ts'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@walletconnect/events/dist/esm/events.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\events\src\events.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\events\src\events.ts'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@walletconnect/events/dist/esm/index.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\events\src\index.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\events\src\index.ts'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@walletconnect/jsonrpc-utils/dist/esm/constants.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\jsonrpc-utils\src\constants.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\jsonrpc-utils\src\constants.ts'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@walletconnect/jsonrpc-utils/dist/esm/env.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\jsonrpc-utils\src\env.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\jsonrpc-utils\src\env.ts'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@walletconnect/jsonrpc-utils/dist/esm/error.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\jsonrpc-utils\src\[1m[31merror[39m[22m[1m.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\jsonrpc-utils\src\[1m[31merror[39m[22m[1m.ts'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@walletconnect/jsonrpc-utils/dist/esm/format.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\jsonrpc-utils\src\format.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\jsonrpc-utils\src\format.ts'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@walletconnect/jsonrpc-utils/dist/esm/index.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\jsonrpc-utils\src\index.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\jsonrpc-utils\src\index.ts'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@walletconnect/jsonrpc-utils/dist/esm/routing.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\jsonrpc-utils\src\routing.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\jsonrpc-utils\src\routing.ts'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@walletconnect/jsonrpc-utils/dist/esm/types.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\jsonrpc-utils\src\types.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\jsonrpc-utils\src\types.ts'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@walletconnect/jsonrpc-utils/dist/esm/url.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\jsonrpc-utils\src\url.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\jsonrpc-utils\src\url.ts'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@walletconnect/jsonrpc-utils/dist/esm/validators.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\jsonrpc-utils\src\validators.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\jsonrpc-utils\src\validators.ts'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@walletconnect/safe-json/dist/esm/index.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\safe-json\src\index.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\safe-json\src\index.ts'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@walletconnect/time/dist/cjs/constants/index.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\time\src\constants\index.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\time\src\constants\index.ts'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@walletconnect/time/dist/cjs/constants/misc.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\time\src\constants\misc.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\time\src\constants\misc.ts'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@walletconnect/time/dist/cjs/constants/time.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\time\src\constants\time.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\time\src\constants\time.ts'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@walletconnect/time/dist/cjs/index.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\time\src\index.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\time\src\index.ts'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@walletconnect/time/dist/cjs/types/index.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\time\src\types\index.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\time\src\types\index.ts'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@walletconnect/time/dist/cjs/types/watch.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\time\src\types\watch.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\time\src\types\watch.ts'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@walletconnect/time/dist/cjs/utils/convert.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\time\src\utils\convert.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\time\src\utils\convert.ts'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@walletconnect/time/dist/cjs/utils/delay.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\time\src\utils\delay.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\time\src\utils\delay.ts'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@walletconnect/time/dist/cjs/utils/index.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\time\src\utils\index.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\time\src\utils\index.ts'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@walletconnect/time/dist/cjs/watch.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\time\src\watch.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\time\src\watch.ts'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@walletconnect/window-getters/dist/cjs/index.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\window-getters\src\index.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\window-getters\src\index.ts'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@walletconnect/window-metadata/dist/cjs/index.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\window-metadata\src\index.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@walletconnect\window-metadata\src\index.ts'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@coinbase/wallet-sdk/dist/CoinbaseWalletProvider.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\CoinbaseWalletProvider.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\CoinbaseWalletProvider.ts'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@coinbase/wallet-sdk/dist/CoinbaseWalletSDK.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\CoinbaseWalletSDK.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\CoinbaseWalletSDK.ts'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@coinbase/wallet-sdk/dist/assets/wallet-logo.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\assets\wallet-logo.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\assets\wallet-logo.ts'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@coinbase/wallet-sdk/dist/core/communicator/Communicator.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\core\communicator\Communicator.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\core\communicator\Communicator.ts'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@coinbase/wallet-sdk/dist/core/constants.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\core\constants.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\core\constants.ts'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@coinbase/wallet-sdk/dist/core/error/constants.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\core\[1m[31merror[39m[22m[1m\constants.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\core\[1m[31merror[39m[22m[1m\constants.ts'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@coinbase/wallet-sdk/dist/core/error/errors.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\core\[1m[31merror[39m[22m[1m\errors.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\core\[1m[31merror[39m[22m[1m\errors.ts'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@coinbase/wallet-sdk/dist/core/error/serialize.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\core\[1m[31merror[39m[22m[1m\serialize.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\core\[1m[31merror[39m[22m[1m\serialize.ts'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@coinbase/wallet-sdk/dist/core/error/utils.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\core\[1m[31merror[39m[22m[1m\utils.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\core\[1m[31merror[39m[22m[1m\utils.ts'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@coinbase/wallet-sdk/dist/core/provider/interface.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\core\provider\interface.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\core\provider\interface.ts'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@coinbase/wallet-sdk/dist/core/storage/ScopedLocalStorage.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\core\storage\ScopedLocalStorage.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\core\storage\ScopedLocalStorage.ts'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@coinbase/wallet-sdk/dist/core/type/index.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\core\type\index.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\core\type\index.ts'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@coinbase/wallet-sdk/dist/core/type/util.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\core\type\util.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\core\type\util.ts'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@coinbase/wallet-sdk/dist/createCoinbaseWalletProvider.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\createCoinbaseWalletProvider.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\createCoinbaseWalletProvider.ts'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@coinbase/wallet-sdk/dist/createCoinbaseWalletSDK.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\createCoinbaseWalletSDK.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\createCoinbaseWalletSDK.ts'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@coinbase/wallet-sdk/dist/index.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\index.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\index.ts'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@coinbase/wallet-sdk/dist/sdk-info.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sdk-info.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sdk-info.ts'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@coinbase/wallet-sdk/dist/sign/scw/SCWKeyManager.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\scw\SCWKeyManager.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\scw\SCWKeyManager.ts'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@coinbase/wallet-sdk/dist/sign/scw/SCWSigner.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\scw\SCWSigner.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\scw\SCWSigner.ts'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@coinbase/wallet-sdk/dist/sign/util.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\util.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\util.ts'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@coinbase/wallet-sdk/dist/sign/walletlink/WalletLinkSigner.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\WalletLinkSigner.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\WalletLinkSigner.ts'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@coinbase/wallet-sdk/dist/sign/walletlink/relay/RelayEventManager.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\RelayEventManager.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\RelayEventManager.ts'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@coinbase/wallet-sdk/dist/sign/walletlink/relay/WalletLinkRelay.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\WalletLinkRelay.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\WalletLinkRelay.ts'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@coinbase/wallet-sdk/dist/sign/walletlink/relay/connection/WalletLinkCipher.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\connection\WalletLinkCipher.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\connection\WalletLinkCipher.ts'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@coinbase/wallet-sdk/dist/sign/walletlink/relay/connection/WalletLinkConnection.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\connection\WalletLinkConnection.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\connection\WalletLinkConnection.ts'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@coinbase/wallet-sdk/dist/sign/walletlink/relay/connection/WalletLinkHTTP.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\connection\WalletLinkHTTP.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\connection\WalletLinkHTTP.ts'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@coinbase/wallet-sdk/dist/sign/walletlink/relay/connection/WalletLinkWebSocket.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\connection\WalletLinkWebSocket.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\connection\WalletLinkWebSocket.ts'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@coinbase/wallet-sdk/dist/sign/walletlink/relay/constants.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\constants.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\constants.ts'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@coinbase/wallet-sdk/dist/sign/walletlink/relay/type/WalletLinkSession.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\type\WalletLinkSession.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\type\WalletLinkSession.ts'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@coinbase/wallet-sdk/dist/sign/walletlink/relay/type/Web3Response.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\type\Web3Response.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\type\Web3Response.ts'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@coinbase/wallet-sdk/dist/sign/walletlink/relay/ui/WLMobileRelayUI.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\ui\WLMobileRelayUI.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\ui\WLMobileRelayUI.ts'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@coinbase/wallet-sdk/dist/sign/walletlink/relay/ui/WalletLinkRelayUI.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\ui\WalletLinkRelayUI.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\ui\WalletLinkRelayUI.ts'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@coinbase/wallet-sdk/dist/sign/walletlink/relay/ui/components/RedirectDialog/RedirectDialog-css.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\ui\components\RedirectDialog\RedirectDialog-css.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\ui\components\RedirectDialog\RedirectDialog-css.ts'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@coinbase/wallet-sdk/dist/sign/walletlink/relay/ui/components/RedirectDialog/RedirectDialog.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\ui\components\RedirectDialog\RedirectDialog.tsx' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\ui\components\RedirectDialog\RedirectDialog.tsx'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@coinbase/wallet-sdk/dist/sign/walletlink/relay/ui/components/Snackbar/Snackbar-css.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\ui\components\Snackbar\Snackbar-css.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\ui\components\Snackbar\Snackbar-css.ts'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@coinbase/wallet-sdk/dist/sign/walletlink/relay/ui/components/Snackbar/Snackbar.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\ui\components\Snackbar\Snackbar.tsx' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\ui\components\Snackbar\Snackbar.tsx'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@coinbase/wallet-sdk/dist/sign/walletlink/relay/ui/components/cssReset/cssReset-css.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\ui\components\cssReset\cssReset-css.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\ui\components\cssReset\cssReset-css.ts'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@coinbase/wallet-sdk/dist/sign/walletlink/relay/ui/components/cssReset/cssReset.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\ui\components\cssReset\cssReset.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\ui\components\cssReset\cssReset.ts'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@coinbase/wallet-sdk/dist/sign/walletlink/relay/ui/components/util.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\ui\components\util.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\sign\walletlink\relay\ui\components\util.ts'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@coinbase/wallet-sdk/dist/util/checkCrossOriginOpenerPolicy.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\util\checkCrossOriginOpenerPolicy.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\util\checkCrossOriginOpenerPolicy.ts'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@coinbase/wallet-sdk/dist/util/cipher.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\util\cipher.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\util\cipher.ts'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@coinbase/wallet-sdk/dist/util/provider.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\util\provider.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\util\provider.ts'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@coinbase/wallet-sdk/dist/util/validatePreferences.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\util\validatePreferences.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\util\validatePreferences.ts'[39m[22m
+
+[1m[33mWARNING[39m[22m in [1m./node_modules/@coinbase/wallet-sdk/dist/util/web.js[39m[22m
+[1mModule Warning (from ./node_modules/react-scripts/node_modules/source-map-loader/dist/cjs.js):
+[1m[31mFailed[39m[22m[1m to parse source map from 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\util\web.ts' file: [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'C:\Users\hardik\my-privy-app\node_modules\@coinbase\wallet-sdk\src\util\web.ts'[39m[22m
+
+webpack compiled with [1m[33m71 warnings[39m[22m
